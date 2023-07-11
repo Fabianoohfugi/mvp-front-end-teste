@@ -20,7 +20,7 @@ Se quiser saber mais sobre como ativar, basta entrar neste site e seguir os pass
  ```
   cd meu-projeto
  ```
--Para rodar:
+- Para rodar:
 ```
   npm start
 ```
