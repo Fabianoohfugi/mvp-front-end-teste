@@ -2,7 +2,7 @@
 
 Estre projeto se trata do  MVP da Disciplina **Front-End-Avançado** PUC-rio EAD.
 
-O projeto se trata de um site de venda de camisetas de futebol. O site possui
+O projeto se trata de um site de venda de camisetas de futebol feito com React. O site possui
 3 páginas, a principal onde aparece as camisetas, uma página de perfil e uma 
 de carrinho.
 
