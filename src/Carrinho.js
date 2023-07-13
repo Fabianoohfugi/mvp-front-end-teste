@@ -21,7 +21,7 @@ const ProductCard = ({ id, image, name, price, addToCart }) => {
 
 const ProductList = ({ addToCart }) => {
   const products = [
-    // Products data
+    
   ];
 
   return (
@@ -89,7 +89,7 @@ const App = () => {
   const [cartItems, setCartItems] = useState([]);
 
   const products = [
-    // Products data
+    
   ];
 
   const addToCart = (productId) => {
