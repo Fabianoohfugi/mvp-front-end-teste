@@ -2,7 +2,6 @@ import React from 'react';
 import'./profile.css';
 
 const ProfilePage = ({ onGoBack, onViewCart }) => {
-  // Dados de exemplo do perfil do usuário
   const userProfile = {
     nome: 'Fulano de Tal',
     dataNascimento: '1 de Janeiro de 1990',
