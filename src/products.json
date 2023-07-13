@@ -1,0 +1,41 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa Cruzeiro",
+      "price": 250.00,
+      "image": "images/Camisa_Cruzeiro.jpg.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Camisa Bayern de Munich",
+      "price": 250.00,
+      "image": "images/Camisa_Bayern_de_Munich.jpg.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Camisa Real Madrid",
+      "price": 250.00,
+      "image": "images/Camisa_RealMadrid.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Camisa Barcelona",
+      "price": 250.00,
+      "image": "images/Camisa_Barcelona.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Camisa PSG",
+      "price": 250.00,
+      "image": "images/Camisa_Psg.webp"
+    },
+    {
+      "id": 6,
+      "name": "Camisa Chelsea",
+      "price": 250.00,
+      "image": "images/Camisa_Chelsea.webp"
+    }
+  ]
+}
