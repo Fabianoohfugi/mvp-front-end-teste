@@ -1,4 +1,4 @@
-/* Global Styles */
+
 body {
   margin: 0;
   padding: 0;
@@ -105,7 +105,7 @@ button:hover {
   background-color: #2980b9;
 }
 
-/* Support Button */
+
 .support-button {
   position: fixed;
   bottom: 20px;
@@ -129,7 +129,7 @@ button:hover {
   height: 24px;
 }
 
-/* Media Query for Responsive Layout */
+
 @media (max-width: 600px) {
   .product-list {
     grid-template-columns: 1fr;
