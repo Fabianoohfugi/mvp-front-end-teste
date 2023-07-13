@@ -16,7 +16,7 @@ const ProfilePage = ({ onGoBack, onViewCart }) => {
       <p><strong>Data de Nascimento:</strong> {userProfile.dataNascimento}</p>
       <p><strong>CPF:</strong> {userProfile.cpf}</p>
       <p><strong>Endereço:</strong> {userProfile.endereco}</p>
-      <button onClick={onViewCart}>Ir para o carrinho</button>
+      <button onClick={onViewCart}>Meu Carrinho</button>
       <button onClick={onGoBack}>Página Principal</button>
     </div>
   );
