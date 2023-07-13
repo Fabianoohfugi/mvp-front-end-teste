@@ -5,14 +5,14 @@ const ChatScreen = ({ onHideChat }) => {
   const [messages, setMessages] = useState([]);
   const [newMessage, setNewMessage] = useState('');
 
-  // Example initial messages
+  
   const initialMessages = [
     { id: 1, text: 'Ola!', sender: 'user' },
     { id: 2, text: 'Como posso ajudar?', sender: 'agent' },
   ];
 
   useEffect(() => {
-    // Set the initial messages when the component mounts
+   
     setMessages(initialMessages);
   }, []);
 
